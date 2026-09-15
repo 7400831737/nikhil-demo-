@@ -1,2 +1,3 @@
 # nikhil-demo-
-this is my first git reproitory
+this is my first git reproitory.
+author- nikhil yadav
